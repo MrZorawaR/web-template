@@ -22,9 +22,6 @@ body{
     justify-content: space-between;
     align-items: center;
 }
-.logo{}
-.logo h3{}
-.logo{}
 .menu ul{
     display: flex;
    
@@ -73,7 +70,6 @@ body{
     height: 360px;
     background-color: #fff;
 }
-.service_section{}
 .service_section h3{
     text-align: center;
     text-transform: uppercase;
